@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/OS-Windows-blueviolet?style=for-the-badge&logo=windows)
+![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/OS-Linux-blueviolet?style=for-the-badge&logo=linux)
 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blueviolet?style=for-the-badge&logo=visualstudio)
