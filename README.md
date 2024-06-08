@@ -30,10 +30,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-PHP-blueviolet?style=for-the-badge&logo=php)
 
 ![](https://img.shields.io/badge/Database-MySQL-blueviolet?style=for-the-badge&logo=mysql)
-![](https://img.shields.io/badge/Database-MongoDB-blueviolet?style=for-the-badge&logo=mongodb)
 
 ![](https://img.shields.io/badge/Tool-Git-blueviolet?style=for-the-badge&logo=git)
-![](https://img.shields.io/badge/Tool-Postman-blueviolet?style=for-the-badge&logo=postman)
-
-![](https://img.shields.io/badge/CI/CD-Azure%20YAML%20Pipelines-blueviolet?style=for-the-badge&logo=Azure%20DevOps)
-![](https://img.shields.io/badge/Cloud-Azure-blueviolet?style=for-the-badge&logo=Microsoft%20Azure)
