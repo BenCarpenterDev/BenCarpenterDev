@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
 
-![](https://img.shields.io/badge/Code-C%23-blueviolet?style=for-the-badge&logo=csharp)
-![](https://img.shields.io/badge/Code-C%23-blueviolet?style=for-the-badge&logo=cplusplus)
-![](https://img.shields.io/badge/Code-JavaScript%20-blueviolet?style=for-the-badge&logo=javascript)
-![](https://img.shields.io/badge/Code-Python-blueviolet?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Code-C%23-blue?style=for-the-badge&logo=cplusplus)
+![](https://img.shields.io/badge/Code-JavaScript%20-blue?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
 
-![](https://img.shields.io/badge/Database-MySQL-blueviolet?style=for-the-badge&logo=mysql)
+![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
 
-![](https://img.shields.io/badge/Tool-Git-blueviolet?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/Tool-Git-blue?style=for-the-badge&logo=git)
