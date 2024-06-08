@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
 
 ![](https://img.shields.io/badge/Code-C%23-blueviolet?style=for-the-badge&logo=csharp)
-![](https://img.shields.io/badge/Code-C%++23-blueviolet?style=for-the-badge&logo=cplus)
+![](https://img.shields.io/badge/Code-C%++23-blueviolet?style=for-the-badge&logo=cplusplus)
 ![](https://img.shields.io/badge/Code-JavaScript%20-blueviolet?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Code-Python-blueviolet?style=for-the-badge&logo=python)
 
