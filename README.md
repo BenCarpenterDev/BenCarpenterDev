@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/OS-Ubuntu-blue?style=for-the-badge&logo=Ubuntu)
 
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blueviolet?style=for-the-badge&logo=visualstudio)
-![](https://img.shields.io/badge/Editor-Sublime%20Text-blueviolet?style=for-the-badge&logo=sublimetext)
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
 
 ![](https://img.shields.io/badge/Shell-BASH-blueviolet?style=for-the-badge&logo=gnometerminal)
 ![](https://img.shields.io/badge/Shell-Command%20Prompt-blueviolet?style=for-the-badge&logo=windowsterminal)
