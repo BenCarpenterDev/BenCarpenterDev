@@ -1,4 +1,4 @@
-## Hello there
+## Welcome
 
 <!--
 **BenCarpenterDev/BenCarpenterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### OS
 ![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
-![](https://img.shields.io/badge/OS-Ubuntu-blue?style=for-the-badge&logo=Ubuntu)
+![](https://img.shields.io/badge/OS-Arch-blue?style=for-the-badge&logo=archlinux)
 
-![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
+### IDEs
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/IDE-NetBeans-%231B6AC6?style=for-the-badge&logo=apachenetbeanside)
+![](https://img.shields.io/badge/IDE-Spyder-%238C0000?style=for-the-badge&logo=spyderide)
 
+### Languages
 ![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
-![](https://img.shields.io/badge/Code-JavaScript%20-blue?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Code-JavaScript%20-yellow?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python)
 
-![](https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=mysql)
-
-![](https://img.shields.io/badge/Tool-Git-blue?style=for-the-badge&logo=git)
+### Tools
+![](https://img.shields.io/badge/Framework-Qt-%2341CD52?style=for-the-badge&logo=qt)
+![](https://img.shields.io/badge/Version%20Control-Git-%23F05032?style=for-the-badge&logo=git)
