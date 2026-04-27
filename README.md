@@ -1,27 +1,7 @@
-## Welcome
-
-<!--
-**BenCarpenterDev/BenCarpenterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### OS
-![](https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows)
-![](https://img.shields.io/badge/OS-Arch-blue?style=for-the-badge&logo=archlinux)
-
-### IDEs
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20/%20Code-blue?style=for-the-badge&logo=visualstudio)
-![](https://img.shields.io/badge/IDE-NetBeans-%231B6AC6?style=for-the-badge&logo=apachenetbeanside)
-![](https://img.shields.io/badge/IDE-Spyder-%238C0000?style=for-the-badge&logo=spyderide)
+<h1 align="center">Ben Carpenter</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/bencarpenter03/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>    
+</p>
 
 ### Languages
 ![](https://img.shields.io/badge/Code-C++-blue?style=for-the-badge&logo=cplusplus)
